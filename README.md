@@ -42,5 +42,5 @@ Serpiente
 Tetris
 ![image](https://user-images.githubusercontent.com/19364556/193931544-578d8e69-5767-4fc8-b71b-8e6b9ab21a52.png)
 
-
+Guia: https://www.youtube.com/watch?v=CK_yWIjatO4&t=16752s&ab_channel=JeffAporta
 
